@@ -1,0 +1,80 @@
+.square-float {
+    position: relative;
+    margin: 3rem auto;
+    display: flex;
+    align-items: center;
+    flex-flow: column wrap;
+    background-color: white;
+    padding: 2rem 1.5rem;
+    width: max-content;
+    box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+    z-index: 10;
+    border-radius: 10px;
+    /* width: 650px;
+    height: 600px;
+    background-color: #ffffff;
+    box-shadow: 0px 4px 8px #949494;
+    margin-top: 200px;
+    border-radius: 10px; */
+  }
+
+.logo {
+    width: 9rem; 
+    margin-top: 0; 
+    margin-left: 2rem;
+}
+
+.font{
+    /* border: solid green; */
+    margin: 0;
+    margin-top: 1rem;
+    margin-left: 2rem;
+    font-size: x-large;
+}
+
+.font2{
+    /* border:solid #949494; */
+    margin: 0;
+    margin-left: 2rem;
+    margin-bottom: 2rem;
+    font-size: smaller;
+    forced-color-adjust: grey;
+}
+
+.form{
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+    margin-left: 2rem;
+    display: flex;
+    font-size: smaller;
+}
+
+.label{
+    border:solid #DDDDDD; 
+    margin-left: 2rem;
+    width: 580px;
+    height: 30px;
+    border-radius: 5px;
+    padding: 2px 4px;
+}
+
+.picklist{
+    border:solid #DDDDDD; 
+    margin-left: 2rem;
+    width: 595px;
+    height: 40px;
+    border-radius: 5px;
+    padding: 2px 4px;
+    color: grey;
+}
+
+.button{
+    background-color:#2B61D0; 
+    margin-left: 2rem;
+    width: 595px;
+    height: 40px;
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+}

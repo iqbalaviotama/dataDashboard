@@ -1,0 +1,19 @@
+.split-screen {
+    display: flex;
+    /* height: 100px */
+  }
+
+  .background {
+    width: 50%;
+    /* background-color: #000000; */
+    /* background-image: url('asset/picture/background.svg'); */
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .login {
+    width: 50%;
+    background-size: cover;
+    /* padding: 200px; */
+    /* background-color: #ffffff; */
+  }

@@ -1,0 +1,17 @@
+.foot{
+    margin-top: 5rem;
+}
+
+.display{
+    display: inline-block;
+}
+
+.center{
+    text-align: center;
+}
+
+.senterterang{
+    text-align: center;
+    text-decoration: none;
+    color:grey;
+}
